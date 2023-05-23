@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d4b78cb-33c3-4a96-b0bc-fca175ddb780" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/basics/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/basics/Cricketer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/basics/FutbollScorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/classmodifiers/defaultaccess/a/AnotherClassInSamePackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/classmodifiers/defaultaccess/a/DefaultAccessClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/classmodifiers/defaultaccess/b/ClassInDifferentPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/classmodifiers/nonaccess/abstractclass/AbstractClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/classmodifiers/nonaccess/finalclass/FinalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/exceptionhandling/ExceptionHandlingExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/exceptionhandling/ExceptionHandlingExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/innerclass/AnonymousClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/innerclass/InnerClassExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/cohesion/problem/CohesionExampleProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/cohesion/solution/CohesionExampleSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/coupling/problem/CouplingExamplesProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/coupling/solution/CouplingExamplesSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/encapsulation/EncapsulationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/EveryClassExtendsObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/InheritanceExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/overloading/OverloadingRules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/overriding/OverridingRules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/polymorphism/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/polymorphism/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/polymorphism/TestPolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/reuse/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/reuse/Comedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/reuse/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/reuse/TestReuse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/interfaces/Aeroplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/interfaces/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/interfaces/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/interfaces/IntefaceRules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/interfaces/InterfaceExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/interfaces/InterfaceWithMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/operators/IncrementAndDecrementOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/operators/InstanceOfExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/operators/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/operators/RelationalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/operators/StringConcatenationExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/operators/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/object/EqualsHashCodeExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/object/ToStringExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/object/constructors/ConstructorExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/string/StringBufferBuilderExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/string/StringExamples.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Q3BmaWOCJEDyrDTQWlg7svJVjT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/dev/javaBasic/JavaBasicDeep/src/main/java/com/deep/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java\com\deep\java" />
+      <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java" />
+      <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d4b78cb-33c3-4a96-b0bc-fca175ddb780" name="Changes" comment="" />
+      <created>1684572547378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684572547378</updated>
+      <workItem from="1684572548498" duration="6973000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
