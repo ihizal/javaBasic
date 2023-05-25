@@ -5,64 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d4b78cb-33c3-4a96-b0bc-fca175ddb780" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/basics/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/basics/Cricketer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/basics/FutbollScorer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/classmodifiers/defaultaccess/a/AnotherClassInSamePackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/classmodifiers/defaultaccess/a/DefaultAccessClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/classmodifiers/defaultaccess/b/ClassInDifferentPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/classmodifiers/nonaccess/abstractclass/AbstractClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/classmodifiers/nonaccess/finalclass/FinalClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/exceptionhandling/ExceptionHandlingExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/exceptionhandling/ExceptionHandlingExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/innerclass/AnonymousClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/innerclass/InnerClassExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/cohesion/problem/CohesionExampleProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/cohesion/solution/CohesionExampleSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/coupling/problem/CouplingExamplesProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/coupling/solution/CouplingExamplesSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/encapsulation/EncapsulationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/EveryClassExtendsObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/InheritanceExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/overloading/OverloadingRules.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/overriding/OverridingRules.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/polymorphism/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/polymorphism/TestPolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/reuse/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/reuse/Comedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/reuse/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/reuse/TestReuse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/interfaces/Aeroplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/interfaces/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/interfaces/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/interfaces/IntefaceRules.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/interfaces/InterfaceExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/interfaces/InterfaceWithMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/operators/IncrementAndDecrementOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/operators/InstanceOfExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/operators/LogicalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/operators/RelationalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/operators/StringConcatenationExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/operators/TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/object/EqualsHashCodeExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/object/ToStringExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/object/constructors/ConstructorExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/string/StringBufferBuilderExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/string/StringExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/InitializerExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/arrays/ArraysExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/arrays/VarArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/enums/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/enums/EnumAdvanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/enums/EnumAdvanced2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/miscellaneous/Miscellaneous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/deep/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/polymorphism/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/oops/inheritance/polymorphism/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,7 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/dev/javaBasic/JavaBasicDeep/src/main/java/com/deep/java",
+    "last_opened_file_path": "C:/dev/javaBasic/JavaBasicDeep/src/main/java/com/deep/java/enums",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -99,10 +66,87 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java\com\deep\java\enums" />
       <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java\com\deep\java" />
       <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java" />
       <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="EnumAdvanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deep.java.enums.EnumAdvanced" />
+      <module name="JavaBasicDeep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deep.java.enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumAdvanced2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deep.java.enums.EnumAdvanced2" />
+      <module name="JavaBasicDeep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deep.java.enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitializerExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deep.java.InitializerExamples" />
+      <module name="JavaBasicDeep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deep.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deep.java.Main" />
+      <module name="JavaBasicDeep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deep.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deep.java.arrays.VarArguments" />
+      <module name="JavaBasicDeep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deep.java.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.InitializerExamples" />
+        <item itemvalue="Application.VarArguments" />
+        <item itemvalue="Application.EnumAdvanced2" />
+        <item itemvalue="Application.EnumAdvanced" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -112,11 +156,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684572547378</updated>
-      <workItem from="1684572548498" duration="6973000" />
+      <workItem from="1684572548498" duration="22573000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
