@@ -1,4 +1,4 @@
-package object.constructors;
+package com.deep.java.object.constructors;
 
 class Animal {
 	String name;

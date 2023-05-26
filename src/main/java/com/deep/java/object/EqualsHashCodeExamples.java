@@ -1,4 +1,4 @@
-package object;
+package com.deep.java.object;
 
 class Client {
 	private int id;
