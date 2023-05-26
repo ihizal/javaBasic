@@ -37,7 +37,7 @@ public class Rectangle implements Serializable {
 
             System.out.println(rectangle.length);
             System.out.println(rectangle.breadth);
-            System.out.println(rectangle.area;
+            System.out.println(rectangle.area);
         }
     }
 }
