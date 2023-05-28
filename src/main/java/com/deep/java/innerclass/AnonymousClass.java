@@ -19,11 +19,8 @@ public class AnonymousClass {
 			public int compare(String string1, String string2) {
 				return string2.compareTo(string1);
 			}
-
 		};
-
 		Arrays.sort(array, reverseComparator);
-
 		return array;
 	}
 
@@ -32,7 +29,6 @@ public class AnonymousClass {
 		String[] array = { "Apple", "Cat", "Boy" };
 
 		System.out.println(Arrays.toString(reverseSort(array)));// [Cat, Boy,
-																// Apple]
 
 		/* Second Anonymous Class - SubClass of Animal */
 		Animal animal = new Animal() {
