@@ -10,7 +10,7 @@ public class ArraysExample {
 
         //int values[5]; // Compalaiton Error
 
-        marks = new int[5];
+        marks = new int[5];//0
         // Default Values
         // byte , short ,int , long - 0
         // float,double,bigdecimal - 0.0

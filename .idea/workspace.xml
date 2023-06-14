@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d4b78cb-33c3-4a96-b0bc-fca175ddb780" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/Varargs/VariableArgumentExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/serialization/SerializationExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/serialization/SerializationExamples2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/serialization/SerializationExamples3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/deep/java/innerclass/AnonymousClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/innerclass/AnonymousClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/deep/java/arrays/ArraysExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/arrays/ArraysExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/dev/javaBasic/JavaBasicDeep/src/main/java/com/deep/java/enums&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/dev/javaBasic/JavaBasicDeep/src/main/java/com/deep/java/collections/examples&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -57,8 +59,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java\com\deep\java\enums" />
+      <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java\com\deep\java\collections\examples" />
       <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java\com\deep\java" />
+      <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java\com\deep\java\enums" />
       <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java" />
       <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main" />
     </key>
@@ -69,13 +72,13 @@
       <recent name="com.deep.java.Varargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="EnumAdvanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deep.java.enums.EnumAdvanced" />
+  <component name="RunManager" selected="Application.SerializationExamples">
+    <configuration name="CollectionExamples (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deep.java.collections.examples.CollectionExamples" />
       <module name="JavaBasicDeep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.deep.java.enums.*" />
+          <option name="PATTERN" value="com.deep.java.collections.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumAdvanced2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deep.java.enums.EnumAdvanced2" />
+    <configuration name="CollectionExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deep.java.collections.examples.CollectionExamples" />
       <module name="JavaBasicDeep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.deep.java.enums.*" />
+          <option name="PATTERN" value="com.deep.java.collections.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deep.java.arrays.VarArguments" />
+    <configuration name="SerializationExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deep.java.serialization.SerializationExamples" />
       <module name="JavaBasicDeep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.deep.java.arrays.*" />
+          <option name="PATTERN" value="com.deep.java.serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SerializationExamples" />
+        <item itemvalue="Application.CollectionExamples" />
+        <item itemvalue="Application.CollectionExamples (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.InitializerExamples" />
-        <item itemvalue="Application.VarArguments" />
-        <item itemvalue="Application.EnumAdvanced2" />
-        <item itemvalue="Application.EnumAdvanced" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +157,8 @@
       <option name="presentableId" value="Default" />
       <updated>1684572547378</updated>
       <workItem from="1684572548498" duration="22573000" />
-      <workItem from="1685087314596" duration="6818000" />
+      <workItem from="1685087314596" duration="19632000" />
+      <workItem from="1686723118917" duration="1603000" />
     </task>
     <servers />
   </component>
@@ -183,5 +187,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/deep/java/serialization/SerializationExamples.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
