@@ -1,6 +1,9 @@
 package com.deep.java.serialization;
 
 import java.io.*;
+import java.util.Arrays;
+import java.util.List;
+
 
 class Actor {
 	String name;
@@ -23,7 +26,7 @@ public class SerializationExamples3 {
 	public static void main(String[] args) throws IOException,
 			ClassNotFoundException {
 
-		FileOutputStream fileStream = new FileOutputStream("Hero.ser");
+		FileOutputStream fileStream = new FileOutputStream("Hero.txt");
 		ObjectOutputStream objectStream = new ObjectOutputStream(fileStream);
 
 		Hero hero = new Hero();
@@ -38,7 +41,7 @@ public class SerializationExamples3 {
 		objectStream.writeObject(hero);
 		objectStream.close();
 
-		FileInputStream fileInputStream = new FileInputStream("Hero.ser");
+		FileInputStream fileInputStream = new FileInputStream("Hero.txt");
 		ObjectInputStream objectInputStream = new ObjectInputStream(
 				fileInputStream);
 		hero = (Hero) objectInputStream.readObject();
@@ -51,5 +54,8 @@ public class SerializationExamples3 {
 		// After -> DanceType :Ganganam Name:Default
 		System.out.println("After -> DanceType :" + hero.danceType + " Name:"
 				+ hero.name);
+
+		/*List<String> list= Arrays.asList(new String[]{"ac","aases"});
+		list.remove();*/
 	}
 }

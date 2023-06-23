@@ -15,7 +15,8 @@ class House implements Serializable {
 	int number;
 }
 
-class Wall implements Serializable {
+class Wall implements Serializable
+{
 	int length;
 	int breadth;
 	int color;
@@ -25,7 +26,7 @@ public class SerializationExamples2 {
 
 	public static void main(String[] args) throws IOException {
 
-		FileOutputStream fileStream = new FileOutputStream("House.ser");
+		FileOutputStream fileStream = new FileOutputStream("House.txt");
 		ObjectOutputStream objectStream = new ObjectOutputStream(fileStream);
 		House house = new House(10);
 		house.wall = new Wall();

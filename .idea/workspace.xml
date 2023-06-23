@@ -5,11 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d4b78cb-33c3-4a96-b0bc-fca175ddb780" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/serialization/SerializationExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/serialization/SerializationExamples2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/serialization/SerializationExamples3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/arrays/GenericSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/collections/examples/CollectionExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/collections/examples/FailFast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/collections/examples/FailSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/files/ConsoleExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/files/FileExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/flow/BreakExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/flow/ContinueExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/flow/DoWhileLoopExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/flow/ForLoopExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/flow/IfElseExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/flow/SwitchExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/flow/WhileLoopExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/generics/GenericsExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/generics/GenericsExamples2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/generics/GenericsExamples3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/initializers/InitializerExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/membermodifiers/access/ExampleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/membermodifiers/access/SubClassInSamePackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/membermodifiers/access/TestClassInSamePackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/membermodifiers/access/different/SubClassInDifferentPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/membermodifiers/access/different/TestClassInDifferentPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/membermodifiers/nonaccess/FinalMemberModifiersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/membermodifiers/nonaccess/StaticModifierExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/others/PrintfExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/others/SameType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/others/assertexample/AssertExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/others/date/CalendarExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/others/date/DateExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/others/garbagecollection/GarbageCollectionExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/others/regularexpressions/RegularExpressionExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/string/StringBufferBuilderExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/string/StringExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/threads/ExecuterServiceExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/threads/ThreadExampleSyncronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/threads/ThreadExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/threads/ThreadPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/variables/PassingVariablesToMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/variables/StaticAndMemberVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/variables/VariableInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/variables/scope/VariablesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/wrapper/WrapperExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/deep/java/arrays/ArraysExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/arrays/ArraysExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/deep/java/serialization/SerializationExamples2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/serialization/SerializationExamples2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/deep/java/serialization/SerializationExamples3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deep/java/serialization/SerializationExamples3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,26 +83,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/dev/javaBasic/JavaBasicDeep/src/main/java/com/deep/java/collections/examples&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/dev/javaBasic/JavaBasicDeep/src/main/java/com/deep/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java\com\deep\java\collections\examples" />
       <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java\com\deep\java" />
-      <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java\com\deep\java\enums" />
       <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java" />
+      <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java\com\deep\java\collections\examples" />
+      <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main\java\com\deep\java\enums" />
       <recent name="C:\dev\javaBasic\JavaBasicDeep\src\main" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -72,13 +112,13 @@
       <recent name="com.deep.java.Varargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SerializationExamples">
-    <configuration name="CollectionExamples (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deep.java.collections.examples.CollectionExamples" />
+  <component name="RunManager" selected="Application.ThreadExampleSyncronized (4)">
+    <configuration name="ThreadExampleSyncronized (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deep.java.threads.ThreadExampleSyncronized" />
       <module name="JavaBasicDeep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.deep.java.collections.examples.*" />
+          <option name="PATTERN" value="com.deep.java.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deep.java.collections.examples.CollectionExamples" />
+    <configuration name="ThreadExampleSyncronized (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deep.java.threads.ThreadExampleSyncronized" />
       <module name="JavaBasicDeep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.deep.java.collections.examples.*" />
+          <option name="PATTERN" value="com.deep.java.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InitializerExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deep.java.InitializerExamples" />
+    <configuration name="ThreadExampleSyncronized (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deep.java.threads.ThreadExampleSyncronized" />
       <module name="JavaBasicDeep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.deep.java.*" />
+          <option name="PATTERN" value="com.deep.java.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deep.java.Main" />
+    <configuration name="ThreadExampleSyncronized (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deep.java.threads.ThreadExampleSyncronized" />
       <module name="JavaBasicDeep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.deep.java.*" />
+          <option name="PATTERN" value="com.deep.java.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializationExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deep.java.serialization.SerializationExamples" />
+    <configuration name="ThreadExampleSyncronized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deep.java.threads.ThreadExampleSyncronized" />
       <module name="JavaBasicDeep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.deep.java.serialization.*" />
+          <option name="PATTERN" value="com.deep.java.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SerializationExamples" />
-        <item itemvalue="Application.CollectionExamples" />
-        <item itemvalue="Application.CollectionExamples (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.InitializerExamples" />
+        <item itemvalue="Application.ThreadExampleSyncronized (4)" />
+        <item itemvalue="Application.ThreadExampleSyncronized (3)" />
+        <item itemvalue="Application.ThreadExampleSyncronized (2)" />
+        <item itemvalue="Application.ThreadExampleSyncronized (1)" />
+        <item itemvalue="Application.ThreadExampleSyncronized" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +198,8 @@
       <updated>1684572547378</updated>
       <workItem from="1684572548498" duration="22573000" />
       <workItem from="1685087314596" duration="19632000" />
-      <workItem from="1686723118917" duration="1603000" />
+      <workItem from="1686723118917" duration="16680000" />
+      <workItem from="1687548277068" duration="3849000" />
     </task>
     <servers />
   </component>
@@ -195,6 +236,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/deep/java/serialization/SerializationExamples.java</url>
           <line>46</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/deep/java/flow/SwitchExamples.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
